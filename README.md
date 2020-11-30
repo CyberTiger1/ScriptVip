@@ -1,2 +1,2 @@
 # ScriptVip
-Script ini untuk mempermudah kan pengguna cukk
+Script ini untuk mempermudah kan pengguna cuk
