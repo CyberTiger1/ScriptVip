@@ -114,7 +114,7 @@ echo " PASSWORD: QWERTY"
 echo
 read -p "[BACK TO MENU]" back
 clear
-sh Tool-CyberTiger.sh
+sh scvp.sh
 fi
 #batas
 if [ $pil = 8 ] || [ $pil = 8 ];then
@@ -177,7 +177,7 @@ echo " password: channel pajaoq"
 echo
 read -p "[BACK TO MENU]" back
 clear
-sh Tool-CyberTiger.sh
+sh scvp.sh
 fi
 #batas
 if [ $pil = 14 ] || [ $pil = 14 ];then
@@ -239,7 +239,7 @@ pip2 install colorama
 pip3 install requests colorama
 read -p "[BACK TO MENU]" back
 clear
-sh Tool-CyberTiger.sh
+sh scvp.sh
 fi
 #batas
 if [ $pil = 0 ] || [ $pil = 0 ];then
