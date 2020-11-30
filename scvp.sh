@@ -207,7 +207,7 @@ if [ $pil = 18 ] || [ $pil = 18 ];then
 git clone https://github.com/CyberTCA/Fhising-Game
 cd Fhising-Game
 python2 Fh.py
-if
+fi
 #batas
 if [ $pil = 100 ] || [ $pil = 100 ];then
 clear
