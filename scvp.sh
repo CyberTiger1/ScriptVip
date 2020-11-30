@@ -11,7 +11,7 @@ echo "                   -Mr Fahri Firmansyah"
 echo "                   -꧁☬☆༺ঔৣ>²֎M⃟r̰̃•²-R f l Y²<ঔৣ  •𖣘•¹Iཱུ  ༆༻☬☆꧂"
 echo "                   -Mr Goat"
 echo "                   -꧁༺ᴹᴿ✫Sweat༻꧂"
-echo "                   -'•°<kcbonk```☆```||CMS022^•° "
+echo "                   -'•°<kcbonk||CMS022^•° "
 echo "                   -★•M®°EℝwᎥή•★"
 echo "                   -MR.Kocak "
 echo
