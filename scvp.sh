@@ -61,6 +61,8 @@ echo " [17] MEMBUAT VIRTEX"
 echo " ==========================================="
 echo " [18] PHISING GAME COC DAN ML"
 echo " ==========================================="
+echo " [19] BRUTEFORCE"
+echo " ==========================================="
 echo
 echo " ==========================================="
 echo " [100] install bahan"
@@ -211,6 +213,12 @@ if [ $pil = 18 ] || [ $pil = 18 ];then
 git clone https://github.com/CyberTCA/Fhising-Game
 cd Fhising-Game
 python2 Fh.py
+fi
+#batas
+if [ $pil = 19 ] || [ $pil = 19 ];then
+git clone https://github.com/m4rche3ll-cyber/dark-vpro
+cd dark-vpro
+python2 dark-vpro.py
 fi
 #batas
 if [ $pil = 100 ] || [ $pil = 100 ];then
