@@ -146,18 +146,16 @@ termux-setup-storage
 pkg update
 pkg upgrade
 pkg install git
-pkg install unzip
-git clone https://github.com/MrG3P5/bot-wacap
-cd bot-wacap
-unzip bot-wacap.zip
-pkg install wget
 pkg install ffmpeg
 pkg install nodejs
+git clone https://github.com/CyberTiger1/bot-wa
+cd bot-wa
 npm i -g cwebp
 npm i -g ytdl
 npm i
 npm i got
 node index.js
+echo " tinggal di scan QR nya di WhatsApp web cuk"
 fi
 #batas
 if [ $pil = 11 ] || [ $pil = 11 ];then
