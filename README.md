@@ -22,8 +22,8 @@ Script ini untuk mempermudah kan pengguna cuk
 
 
 
-## SEBELUM INSTALL 
-# JANGAN LUPA SIAPKAN DI BAWAH INI
+## SEBELUM INSTALL JANGAN LUPA 
+# SIAPKAN DI BAWAH INI
 ```bash
 > Hp
 > Termux
