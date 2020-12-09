@@ -1,8 +1,8 @@
 clear
 
 echo " ==========================================="
-echo " Author: CyberTiger"
-echo " Team : CYBER ATTACKER {WHI}"
+echo " Author: Mr.Victor"
+echo " Team : Cyber Muslim Army [CMA]"
 echo " Github : https://github.com/CyberTiger1"
 echo " YouTube : CyberTiger"
 echo " Nama² Team Kami : -꧁☆☬₥Ɽ.Vł₵₮ØⱤ☬☆꧂"
