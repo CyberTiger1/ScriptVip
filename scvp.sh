@@ -1,11 +1,11 @@
 clear
 
 echo " ==========================================="
-echo " Author: Mr.Victor"
-echo " Team : Cyber Muslim Army [CMA]"
+echo " Author: MrVictor-Xploit"
+echo " Team : 🎖️Cyber Muslim Army🎖️ [CMA]"
 echo " Github : https://github.com/CyberTiger1"
-echo " YouTube : CyberTiger"
-echo " Nama² Team Kami : -꧁☆☬₥Ɽ.Vł₵₮ØⱤ☬☆꧂"
+echo " YouTube : Mr Victor"
+echo " Nama² Team Kami : -MrVictor-Xploit"
 echo "                   -MR.CLONE"
 echo "                   -Mr Fahri Firmansyah"
 echo "                   -꧁☬☆༺ঔৣ>²֎M⃟r̰̃•²-R f l Y²<ঔৣ  •𖣘•¹Iཱུ  ༆༻☬☆꧂"
@@ -16,6 +16,7 @@ echo "                   -★•M®°EℝwᎥή•★"
 echo "                   -MR.Kocak "
 echo
 echo
+echo " ==========================================="
 echo ".Tolls Ini Ada Beberapa Tools"
 echo ".Hargai Author Kerena Memakai"
 echo " Tidak Sesulit Membuat ^_^"
